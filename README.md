@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>The Gate Group | Redefining African Industry</title>
+    <title>The Gate Group | Home Page</title>
     <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;800&family=Playfair+Display:wght@700&display=swap" rel="stylesheet">
     <style>
         :root {
@@ -361,7 +361,7 @@
         <div class="footer-grid">
             <div class="footer-logo">
                 <h3>THE GATE GROUP</h3>
-                <p style="color: #666; max-width: 400px;">The Growing Africans Through Entrepreneurship and Enterprises. We are building the future we once only dared to dream.</p>
+                <p style="color: #666; max-width: 400px;">The Growing Africans Through Entrepreneurship and Enterprises. The Nightmare, We Dreamonly dared.</p>
             </div>
             <div class="footer-links">
                 <h4>Quick Links</h4>
